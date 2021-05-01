@@ -1,4 +1,4 @@
-<h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Jusepe</h2>
+<h2 align="center">Hey , I'm Jusepe</h2>
 
 <img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/XIqCQx02E1U9W/giphy.gif?cid=790b76118058d44b8f20045259e42b05af9ba7d839813383&rid=giphy.gif&ct=g" />
 

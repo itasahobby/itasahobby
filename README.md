@@ -1,15 +1,10 @@
 <h2 align="center">Hey , I'm Jusepe</h2>
 
-<img align="right" height="150rem" alt="GIF" src="https://media4.giphy.com/media/XIqCQx02E1U9W/giphy.gif?cid=790b76118058d44b8f20045259e42b05af9ba7d839813383&rid=giphy.gif&ct=g" />
+<img align="right" height="100rem" alt="GIF" src="https://media4.giphy.com/media/XIqCQx02E1U9W/giphy.gif?cid=790b76118058d44b8f20045259e42b05af9ba7d839813383&rid=giphy.gif&ct=g" />
 
 - 🌱 I’m currently learning **Pentesting and DevOps**
 - 📝 I regularly write articles on my [blog](https://blog.itasahobby.com)
 - 📫 How to reach me **itasahobby@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jusepe_it" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jusepe_it" height="30" width="40" /></a>
-</p>
 
 ***
 
